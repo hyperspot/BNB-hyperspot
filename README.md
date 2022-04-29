@@ -1,4 +1,4 @@
-
+![](https://raw.githubusercontent.com/hyperspot/BNB-hyperspot/main/PIC/Hyperspot.jpeg)
 
 ## Project Name
 
@@ -52,30 +52,6 @@ In the unlikely event that borrowers are not liquidated quickly enough due to ma
 
 hyperspot is a sophisticated system, but the value proposition that it delivers is simple: hyperspot delivers access to secure and efficient fixed-rate loans to anyone in the world by removing financial intermediaries with the Ethereum blockchain.
 
-## Team members
-
-1.Jeremy White - Blockchain Lead - Entrepreneur, open-source contributor and engineer with over 6 years of experience building large scale data, AI, blockchain and distributed software for the government, multinational & startups sectors.  
-
-2.Logan Z - Cryptography Lead - Technologist, engineer and innovator with over 7 years of experience in software delivery - specializing in cryptography and distributed application design and development.  
-
-3.Michael Lee - Head of Security, Privacy & Data Regulation - Cybersecurity & risk expert working on areas like data protection, privacy regulation, security governance, risk management with over 5 years of experience in the multinational and government sectors.  
-
-4.Billy Cumming - Blockchain Research Scientist - Blockchain Development and interoperability specialist. Phd in Blockchain tech.  
-
-## URL
-
-- Github:https://github.com/hyperspot
-- Hyperspot contract:https://github.com/hyperspot/BNB-hyperspot/tree/main/contracts
-- Hypersopt Front-end:https://github.com/hyperspot/BNB-hyperspot/tree/main/Front-end
-
-## Address
-
-BSC chain deployment address
-
-- Market:0x31607Bc5b21cD8DcE667d0f33Cf8cE0E834a70cd  
-- Dai:0x3E9C2e29c71A067DE30C6838329B9406698F061b  
-- ETH:0x1bE2BED376AC0afeB800e36Be080823dc8e330Cb  
-- USDC:0x3e906751265955127f4Bc951C6dBBaaA94028941  
 
 ## Some pictures
 
