@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/hyperspot/BNB-hyperspot/main/PIC/Hyperspot.jpeg)
+![](https://raw.githubusercontent.com/hyperspot/BNB-hyperspot/main/Hyperspot/Hyperspot.jpeg)
 
 ## Project Name
 
