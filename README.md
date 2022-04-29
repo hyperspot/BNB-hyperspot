@@ -1,49 +1,48 @@
-![image](https://github.com/zolaen/Hyperspot-Financial-System/blob/main/PIC/Borrow.png)
-## Project name 
-
-Hyperspot
-
-## Submission links
-
-GitHub repository:https://github.com/zolaen/Hyperspot-Financial-System.git
-
-Contract link:https://github.com/zolaen/Hyperspot-Financial-System/tree/main/contracts
-
-Front link:https://github.com/hyperspot/Hyperspot-Financial-System/tree/main/Front-end
 
 
-Picture link:https://github.com/zolaen/Hyperspot-Financial-System/tree/main/PIC
+## Project name
 
+BitLoan
 
-## What is hyperspot?
+## Project official website
 
-Hyperspot is an Ethereum-based fixed-rate lending platform. A fixed interest rate is different from a variable or stable interest rate because the interest rate does not change over the term of the loan.
+http://www.bitloan.cc/
 
-## What is the main role of hyperspot?
+## OverView
 
-It will be a challenge for users to match and borrow against each other under exact conditions. Because of the huge liquidity pools, banks have traditionally acted as intermediaries with which borrowers and lenders interact - charging high fees. Hyperspot eliminates intermediaries and maintains on-chain liquidity pools that act as ready counterparties for individual users at any time.
+BitLoan is an NFT lending and borrowing marketplace.
 
-## Accomplishments that we're proud of
+## Problems we can solve.
 
-Eliminate financial intermediaries through the Ethereum blockchain and provide secure and efficient fixed-rate loans to anyone in the world.
-System integrity is ensured through strict risk management of protocol reserves and protocol governors. Hyperspot will be the safest place to earn fixed returns in DeFi.
+BitLoan allows NFT owners to stake their NFT pieces or collections in exchange for cryptocurrencies. Due to the illiquidity of many NFTs on the market are, several DeFi projects have identified the growing need to improve NFT liquidity using solutions such as lending.BitLoan is one of the few projects to make the lending happen. NFTs are not fungaible,which basically means they are not divisible and can not be replicated. However, the cryptocurrencies are divisible and investors do not have to buy NFTs in their entirety.
 
-## What we learned
+## Solution
 
-Created a market for fixed-rate loans without intermediaries that can slash user returns. All users will be able to borrow at true, fair market prices and get the most value from their assets.
+BitLoan allows holders to borrow funds and set terms without an intermediary. Borrowers can get a loan amount of approximately 50% of the value of the NFT, with interest rates ranging from 20% to 80%, depending on the popularity of the NFT.
 
-## Testnet Deployment Information
+BitLoan uses smart contracts to give users complete control over their funds. Assets that function as collateral are sent to a secure smart contract, which acts as an impartial, automated third party programmed to facilitate the lending and borrowing process.
 
-First of all you need to change the network:
+## Submit information
 
-test-network:Ropsten test network
+Github:https://github.com/BitLoanLab  
+Contract:https://github.com/BitLoanLab/bitloan/tree/main/contracts  
+Front end:https://github.com/BitLoanLab/bitloan-front-end  
+PICs:https://github.com/BitLoanLab/bitloan-front-end/tree/main/PIC  
 
-contracts address
+## Youtube Video
 
-Market:0x074a286f8CC1cB1Af9c6238300573FD82BFcB42d
+https://youtu.be/6_3O3lWZOOQ
 
-usdc:0x6B9A021C1A1d3115786db75f6e65C01420f29b93
+## Contract deployment information
 
-Dai:0xc2BBE552ba1418a22CB08F8548eb3c396616c299
+- CREATNFT:
+0x8B99a534AE1698e152d1877991a2bf559465F754
 
-eth：0x9bc0f7311623cca3BbdFeeEDBFec748198F37391
+- LOANMARKET:
+0x10eb46681CB3e90942F9976949Ca03a9a60991c2
+
+- BLT:
+0x3b684916e96e6CF28394F23F559b00Cf9A3fa543
+
+- BLTDEPOSIT:
+0xFc886f5c2b3A7b5078f6b86cb87761d9888099Ba
