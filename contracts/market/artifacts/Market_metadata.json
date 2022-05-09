@@ -750,7 +750,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"localhost/Hyperspot-Financial-System/contracts/market/Market.sol": "Market"
+			"localhost/contracts/market/Market.sol": "Market"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -764,14 +764,14 @@
 		"remappings": []
 	},
 	"sources": {
-		"localhost/Hyperspot-Financial-System/contracts/interface/IERC20.sol": {
+		"localhost/contracts/interface/IERC20.sol": {
 			"keccak256": "0x686665a5e5857dc9dd781b6fa9cd8dbe80e3677a1fce24ae8236879b1ebc32db",
 			"urls": [
 				"bzz-raw://7ac09e0137b3920186afea737fa4953319cdf4bb536a64175f0f365df8c4ee00",
 				"dweb:/ipfs/Qmd3UgNPsp4THdu44tX1P3b5tTXqGJZYgKddy6xyxqWhLw"
 			]
 		},
-		"localhost/Hyperspot-Financial-System/contracts/market/Market.sol": {
+		"localhost/contracts/market/Market.sol": {
 			"keccak256": "0xe6c7f5981e0b1c6e78072977a2ff2ecd89428930e5a52f00be9eca0c57d7a17a",
 			"urls": [
 				"bzz-raw://c6a25c7194fe388eaa4eccb6d0c5d209b2487391c74cbfedc81a02aebfeb44e2",
